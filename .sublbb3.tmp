@@ -29,37 +29,28 @@
     <article id="page" class="content">
       <h2>Andy's works</h2>                <!--Change for your own title-->
       <p>
-      A:What homework do we have for today?Bro
-      <br>
-      <br>
-    <!--Write r texting-->Me:We have math homework about art on English class
-    <br>
-    <br>
-      A:Dude, WTF?
-      <br>
-      <br>
-                                            Me:~.~
+      Go get your "A" right here ~.~              <!--Write your texting-->
       </p>
       
       <ul class="gallery">
         <li>
-          <a data-lightbox="image-1" href="img/A.png"> <!--Add your own big jpg-->
+          <a data-lightbox="image-1" href="img/brunobig.jpg"> <!--Add your own big jpg-->
             <img src="img/A.png">                 <!--Add your own small jpg-->
           </a>
         </li>
         <li>
-          <a data-lightbox="image-1" href="img/b.png"> <!--Add your own big jpg-->
-            <img src="img/b.png"> <!--Add your own small jpg-->
+          <a data-lightbox="image-1" href="img/photos/photo-2-800x800.jpg"> <!--Add your own big jpg-->
+            <img src="img/photos/photo-2-200x200.jpg"> <!--Add your own small jpg-->
           </a>
         </li>
         <li>
-          <a data-lightbox="image-1" href="img/c.png"> <!--Add your own big jpg-->
-            <img src="img/c.png"> <!--Add your own small jpg-->
+          <a data-lightbox="image-1" href="img/photos/photo-3-800x800.jpg"> <!--Add your own big jpg-->
+            <img src="img/photos/photo-3-200x200.jpg"> <!--Add your own small jpg-->
           </a>
         </li>
         <li>
-          <a data-lightbox="image-1" href="img/d.png"> <!--Add your own big jpg-->
-            <img src="img/d.png"> <!--Add your own small jpg-->
+          <a data-lightbox="image-1" href="img/photos/photo-4-800x800.jpg"> <!--Add your own big jpg-->
+            <img src="img/photos/photo-4-200x200.jpg"> <!--Add your own small jpg-->
           </a>
         </li>
         
@@ -69,13 +60,7 @@
      <p> </p>
     <footer>
       <div class="content">
-        <p>Reflections of your work:</p>
-        <br>
-        <p>The skills of making a website I'm not just learn from this class, I took a class from MissionBit too.
-        <br>
-         I learned how to make a website in there too. Usually, Website is write by some codes, if we change the codes,
-         <br>
-          we will change the website. Totally, I learned about how to create a website and type the codes. Also some arts.</p>      <!--Reflections about your artwork-->
+        <p>Reflections of your work</p>      <!--Reflections about your artwork-->
       </div>
     </footer>
   </body>
